@@ -1,0 +1,12 @@
+# Project Dependenciespyttsx3
+
+speechrecognition
+wikipedia-api
+requests
+opencv-python
+wolframalpha
+datetime
+pyttsx3
+pyaudio
+speedtest-cli   
+tkinter     
